@@ -244,3 +244,10 @@ The project is designed around the five assessment features:
 
 PROG6112 Practical Assignment 1
 Hospital Patient Management System
+
+# REFERENCE
+Oracle, 2024. The Java™ Tutorials: Object-Oriented Programming Concepts. [online] Oracle. Available at: Oracle Java TutorialsAttachment.png [Accessed 24 August 2026].
+
+Oracle, 2024. The Java™ Tutorials: Collections. [online] Oracle. Available at: Oracle Java Collections TutorialAttachment.png [Accessed 24 August 2026].
+
+Oracle, 2024. Java Platform, Standard Edition Documentation. [online] Oracle. Available at: Java SE DocumentationAttachment.png [Accessed 24 August 2026].
