@@ -1,5 +1,4 @@
 # HospitalPatientManagementSystem
-# Hospital Patient Management System
 
 ## PROG6112 Practical Assignment 1
 
